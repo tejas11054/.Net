@@ -1,0 +1,14 @@
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+D:\Swabhav\Day-6\Assignment\Person\bin\Debug\net8.0\Person.exe
+D:\Swabhav\Day-6\Assignment\Person\bin\Debug\net8.0\Person.deps.json
+D:\Swabhav\Day-6\Assignment\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+D:\Swabhav\Day-6\Assignment\Person\bin\Debug\net8.0\Person.dll
+D:\Swabhav\Day-6\Assignment\Person\bin\Debug\net8.0\Person.pdb
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\Person.dll
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\refint\Person.dll
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\Person.pdb
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+D:\Swabhav\Day-6\Assignment\Person\obj\Debug\net8.0\ref\Person.dll
