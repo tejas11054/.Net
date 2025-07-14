@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\InOutParameters\bin\Debug\net8.0\InOutParameters.exe
+D:\Swabhav\Assignment\InOutParameters\bin\Debug\net8.0\InOutParameters.deps.json
+D:\Swabhav\Assignment\InOutParameters\bin\Debug\net8.0\InOutParameters.runtimeconfig.json
+D:\Swabhav\Assignment\InOutParameters\bin\Debug\net8.0\InOutParameters.dll
+D:\Swabhav\Assignment\InOutParameters\bin\Debug\net8.0\InOutParameters.pdb
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\InOutParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\InOutParameters.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\InOutParameters.AssemblyInfo.cs
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\InOutParameters.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\InOutParameters.dll
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\refint\InOutParameters.dll
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\InOutParameters.pdb
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\InOutParameters.genruntimeconfig.cache
+D:\Swabhav\Assignment\InOutParameters\obj\Debug\net8.0\ref\InOutParameters.dll
