@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\ProductApp\bin\Debug\net8.0\ProductApp.exe
+D:\Swabhav\Assignment\ProductApp\bin\Debug\net8.0\ProductApp.deps.json
+D:\Swabhav\Assignment\ProductApp\bin\Debug\net8.0\ProductApp.runtimeconfig.json
+D:\Swabhav\Assignment\ProductApp\bin\Debug\net8.0\ProductApp.dll
+D:\Swabhav\Assignment\ProductApp\bin\Debug\net8.0\ProductApp.pdb
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfo.cs
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ProductApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ProductApp.dll
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\refint\ProductApp.dll
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ProductApp.pdb
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
+D:\Swabhav\Assignment\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll
