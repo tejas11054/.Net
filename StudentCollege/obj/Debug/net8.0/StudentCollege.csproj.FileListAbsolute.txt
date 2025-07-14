@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\StudentCollege\bin\Debug\net8.0\StudentCollege.exe
+D:\Swabhav\Assignment\StudentCollege\bin\Debug\net8.0\StudentCollege.deps.json
+D:\Swabhav\Assignment\StudentCollege\bin\Debug\net8.0\StudentCollege.runtimeconfig.json
+D:\Swabhav\Assignment\StudentCollege\bin\Debug\net8.0\StudentCollege.dll
+D:\Swabhav\Assignment\StudentCollege\bin\Debug\net8.0\StudentCollege.pdb
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\StudentCollege.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\StudentCollege.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\StudentCollege.AssemblyInfo.cs
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\StudentCollege.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\StudentCollege.dll
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\refint\StudentCollege.dll
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\StudentCollege.pdb
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\StudentCollege.genruntimeconfig.cache
+D:\Swabhav\Assignment\StudentCollege\obj\Debug\net8.0\ref\StudentCollege.dll
