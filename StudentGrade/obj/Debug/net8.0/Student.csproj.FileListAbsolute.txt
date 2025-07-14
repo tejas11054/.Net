@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\Student\bin\Debug\net8.0\Student.exe
+D:\Swabhav\Assignment\Student\bin\Debug\net8.0\Student.deps.json
+D:\Swabhav\Assignment\Student\bin\Debug\net8.0\Student.runtimeconfig.json
+D:\Swabhav\Assignment\Student\bin\Debug\net8.0\Student.dll
+D:\Swabhav\Assignment\Student\bin\Debug\net8.0\Student.pdb
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\Student.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\Student.AssemblyInfo.cs
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\Student.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\Student.dll
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\refint\Student.dll
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\Student.pdb
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\Student.genruntimeconfig.cache
+D:\Swabhav\Assignment\Student\obj\Debug\net8.0\ref\Student.dll
