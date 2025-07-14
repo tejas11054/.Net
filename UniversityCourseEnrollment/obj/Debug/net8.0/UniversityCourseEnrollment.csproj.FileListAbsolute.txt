@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\UniversityCourseEnrollment\bin\Debug\net8.0\UniversityCourseEnrollment.exe
+D:\Swabhav\Assignment\UniversityCourseEnrollment\bin\Debug\net8.0\UniversityCourseEnrollment.deps.json
+D:\Swabhav\Assignment\UniversityCourseEnrollment\bin\Debug\net8.0\UniversityCourseEnrollment.runtimeconfig.json
+D:\Swabhav\Assignment\UniversityCourseEnrollment\bin\Debug\net8.0\UniversityCourseEnrollment.dll
+D:\Swabhav\Assignment\UniversityCourseEnrollment\bin\Debug\net8.0\UniversityCourseEnrollment.pdb
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\UniversityCourseEnrollment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\UniversityCourseEnrollment.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\UniversityCourseEnrollment.AssemblyInfo.cs
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\UniversityCourseEnrollment.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\UniversityCourseEnrollment.dll
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\refint\UniversityCourseEnrollment.dll
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\UniversityCourseEnrollment.pdb
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\UniversityCourseEnrollment.genruntimeconfig.cache
+D:\Swabhav\Assignment\UniversityCourseEnrollment\obj\Debug\net8.0\ref\UniversityCourseEnrollment.dll
