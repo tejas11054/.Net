@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\CRUDOnList\bin\Debug\net8.0\CRUDOnList.exe
+D:\Swabhav\Assignment\CRUDOnList\bin\Debug\net8.0\CRUDOnList.deps.json
+D:\Swabhav\Assignment\CRUDOnList\bin\Debug\net8.0\CRUDOnList.runtimeconfig.json
+D:\Swabhav\Assignment\CRUDOnList\bin\Debug\net8.0\CRUDOnList.dll
+D:\Swabhav\Assignment\CRUDOnList\bin\Debug\net8.0\CRUDOnList.pdb
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\CRUDOnList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\CRUDOnList.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\CRUDOnList.AssemblyInfo.cs
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\CRUDOnList.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\CRUDOnList.dll
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\refint\CRUDOnList.dll
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\CRUDOnList.pdb
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\CRUDOnList.genruntimeconfig.cache
+D:\Swabhav\Assignment\CRUDOnList\obj\Debug\net8.0\ref\CRUDOnList.dll
