@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.exe
+D:\Swabhav\Assignment\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.deps.json
+D:\Swabhav\Assignment\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.runtimeconfig.json
+D:\Swabhav\Assignment\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.dll
+D:\Swabhav\Assignment\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.pdb
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.AssemblyInfo.cs
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.dll
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\refint\StudentEncapsulation.dll
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.pdb
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.genruntimeconfig.cache
+D:\Swabhav\Assignment\StudentEncapsulation\obj\Debug\net8.0\ref\StudentEncapsulation.dll
