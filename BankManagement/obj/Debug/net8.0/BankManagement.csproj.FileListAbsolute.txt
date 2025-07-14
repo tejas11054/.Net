@@ -1,0 +1,14 @@
+D:\Swabhav\Day-6\Assignment\BankManagement\bin\Debug\net8.0\BankManagement.exe
+D:\Swabhav\Day-6\Assignment\BankManagement\bin\Debug\net8.0\BankManagement.deps.json
+D:\Swabhav\Day-6\Assignment\BankManagement\bin\Debug\net8.0\BankManagement.runtimeconfig.json
+D:\Swabhav\Day-6\Assignment\BankManagement\bin\Debug\net8.0\BankManagement.dll
+D:\Swabhav\Day-6\Assignment\BankManagement\bin\Debug\net8.0\BankManagement.pdb
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\BankManagement.AssemblyInfoInputs.cache
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\BankManagement.AssemblyInfo.cs
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\BankManagement.csproj.CoreCompileInputs.cache
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\BankManagement.dll
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\refint\BankManagement.dll
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\BankManagement.pdb
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\BankManagement.genruntimeconfig.cache
+D:\Swabhav\Day-6\Assignment\BankManagement\obj\Debug\net8.0\ref\BankManagement.dll
