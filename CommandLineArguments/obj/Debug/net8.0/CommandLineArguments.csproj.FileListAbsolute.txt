@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\CommandLineArguments\bin\Debug\net8.0\CommandLineArguments.exe
+D:\Swabhav\Assignment\CommandLineArguments\bin\Debug\net8.0\CommandLineArguments.deps.json
+D:\Swabhav\Assignment\CommandLineArguments\bin\Debug\net8.0\CommandLineArguments.runtimeconfig.json
+D:\Swabhav\Assignment\CommandLineArguments\bin\Debug\net8.0\CommandLineArguments.dll
+D:\Swabhav\Assignment\CommandLineArguments\bin\Debug\net8.0\CommandLineArguments.pdb
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\CommandLineArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\CommandLineArguments.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\CommandLineArguments.AssemblyInfo.cs
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\CommandLineArguments.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\CommandLineArguments.dll
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\refint\CommandLineArguments.dll
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\CommandLineArguments.pdb
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\CommandLineArguments.genruntimeconfig.cache
+D:\Swabhav\Assignment\CommandLineArguments\obj\Debug\net8.0\ref\CommandLineArguments.dll
