@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\BookDiscount\bin\Debug\net8.0\BookDiscount.exe
+D:\Swabhav\Assignment\BookDiscount\bin\Debug\net8.0\BookDiscount.deps.json
+D:\Swabhav\Assignment\BookDiscount\bin\Debug\net8.0\BookDiscount.runtimeconfig.json
+D:\Swabhav\Assignment\BookDiscount\bin\Debug\net8.0\BookDiscount.dll
+D:\Swabhav\Assignment\BookDiscount\bin\Debug\net8.0\BookDiscount.pdb
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\BookDiscount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\BookDiscount.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\BookDiscount.AssemblyInfo.cs
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\BookDiscount.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\BookDiscount.dll
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\refint\BookDiscount.dll
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\BookDiscount.pdb
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\BookDiscount.genruntimeconfig.cache
+D:\Swabhav\Assignment\BookDiscount\obj\Debug\net8.0\ref\BookDiscount.dll
