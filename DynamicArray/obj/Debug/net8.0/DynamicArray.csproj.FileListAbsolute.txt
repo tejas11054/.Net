@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\DynamicArray\bin\Debug\net8.0\DynamicArray.exe
+D:\Swabhav\Assignment\DynamicArray\bin\Debug\net8.0\DynamicArray.deps.json
+D:\Swabhav\Assignment\DynamicArray\bin\Debug\net8.0\DynamicArray.runtimeconfig.json
+D:\Swabhav\Assignment\DynamicArray\bin\Debug\net8.0\DynamicArray.dll
+D:\Swabhav\Assignment\DynamicArray\bin\Debug\net8.0\DynamicArray.pdb
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\DynamicArray.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\DynamicArray.AssemblyInfo.cs
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\DynamicArray.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\DynamicArray.dll
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\refint\DynamicArray.dll
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\DynamicArray.pdb
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\DynamicArray.genruntimeconfig.cache
+D:\Swabhav\Assignment\DynamicArray\obj\Debug\net8.0\ref\DynamicArray.dll
